@@ -1,0 +1,3 @@
+python perceplearn.py perceptron-training-data/train-labeled.txt
+python percepclassify.py vanillamodel.txt perceptron-training-data/dev-text.txt 
+python percepclassify.py averagedmodel.txt perceptron-training-data/dev-text.txt 
