@@ -1,0 +1,10 @@
+
+
+python hmmlearn.py hmm-training-data/it_isdt_train_tagged.txt
+python hmmdecode.py hmm-training-data/it_isdt_dev_raw.txt
+python hmmevaluateit.py
+
+
+python hmmlearn.py hmm-training-data/ja_gsd_train_tagged.txt
+python hmmdecode.py hmm-training-data/ja_gsd_dev_raw.txt
+python hmmevaluateja.py 
