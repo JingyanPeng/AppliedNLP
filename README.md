@@ -17,9 +17,9 @@ This is the assignment and project files for USC-22Fall-CSCI5⃣️4⃣️4⃣�
 
 
 -  Implemented a Hidden Markov Model part-of-speech tagger for Italian, Japanese, and a surprise language from scratch. [HW3]
-   The training data are provided tokenized and tagged; the test data will be provided tokenized, and the tagger will add the tags.
+   - The training data are provided tokenized and tagged; the test data will be provided tokenized, and the tagger will add the tags.
 
 
 
 -  Implemented perceptron classifiers (vanilla and averaged) to identify hotel reviews as either truthful or deceptive, and either positive or negative. [HW4]
-   Used the word tokens as features, or any other features that can be devised from the text.
+   - Used the word tokens as features, or any other features that can be devised from the text.
